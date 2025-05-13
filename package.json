@@ -21,5 +21,7 @@
     "typescript": "^5.8.3"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "type":"module"
+
 }
