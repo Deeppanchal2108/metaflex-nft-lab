@@ -84,3 +84,4 @@ let explorerLink = getExplorerLink(
 console.log(`Collection NFT:  ${explorerLink}`);
 console.log(`Collection NFT address is:`, collectionMint.publicKey);
 console.log("✅ Finished successfully!");
+
